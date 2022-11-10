@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iimpala&show_icons=true&theme=radical&count_private=true)
+![Python](https://img.shields.io/badge/Python-007396?style=flat-badge&logo=Python&logoColor=white)
