@@ -3,6 +3,7 @@
 - 🛠 I'm interested in **Backend Developer**
 - 📚 Now I'm studing **Spring** and **Django**
 - 📫 How to reach me : dla4051@naver.com
+- 📝 Visit My Tech Blog : [velog](https://velog.io/@impala)
 
 <!--
 **iimpala/iimpala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
